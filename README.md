@@ -1,4 +1,4 @@
-# logo.daily.com.pl
+# [logo.daily.com.pl](http://logo.daily.com.pl)
 
 
 ## Font
