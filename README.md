@@ -1,8 +1,6 @@
 # logo
 logo.daily.com.pl
 
-# logo.infreck.com
-
 
 ## Font
 
