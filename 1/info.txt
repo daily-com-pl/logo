@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Titillium-Bold
+font link: https://www.fontsquirrel.com/fonts/titillium
+font author: Accademia di Belle Arti Urbino
+font author site: http://www.accademiadiurbino.it/
+Slogan Font: Titillium-Bold
+
+icon designer: Wes Breazell
+icon designer link: /wes13
+        
+
+fontColor: {"gradient-0":"#FFFE00","gradient-1":"#FFC500"}
+bgColor: {"hex":"white"}
+iconColor: {"gradient-0":"#FFFE00","gradient-1":"#FFC500"}
+sloganColor: {"gradient-0":"#595959","gradient-1":"#888888"}
+      
