@@ -57,6 +57,12 @@ Icon
 
 ![2/default.png](2/default.png)
 
+
+## Zaproszenie na spotkanie
+![daily_small](daily_small.jpg)
+
+
+
 ---
 
 + [edit](https://github.com/daily-com-pl/logo/edit/main/README.md)
